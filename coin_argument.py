@@ -20,8 +20,8 @@ def main():
 
 
 # Эта функция подбрасывает монету.
-def flip(coin_obg):
-    coin_obg.toss()
+def flip(coin_obj):
+    coin_obj.toss()
 
 
 main()
